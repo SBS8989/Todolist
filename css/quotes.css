@@ -1,0 +1,19 @@
+#quote {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#quote span {
+  margin-top: 20px;
+  color: whitesmoke;
+  size: 30px;
+  font-weight: 600;
+  text-align: center;
+  font-style: italic;
+}
+
+#quote :first-child {
+  size: 40px;
+}

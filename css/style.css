@@ -1,0 +1,14 @@
+@import "background.css";
+
+@import "contents.css";
+@import "weather.css";
+@import "quotes.css";
+@import "todo-form.css";
+
+.hidden {
+  display: none;
+}
+
+body {
+  box-sizing: border-box;
+}

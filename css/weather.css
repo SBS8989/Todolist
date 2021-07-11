@@ -1,0 +1,10 @@
+#weather {
+  border: white;
+  margin-top: 40px;
+  color: white;
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
